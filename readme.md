@@ -31,3 +31,17 @@ This project is a modern, full-stack web application built using **Node.js**, **
 - **Secure Password Storage** – Implements industry-standard encryption techniques
 - **Role-Based Access Control (RBAC)** – Restricts endpoint access based on user roles (admin, user, etc.)
 - **Enhanced Security Measures** – Includes rate limiting, request validation, data sanitization, and encryption mechanisms to prevent security vulnerabilities
+
+## **Screenshots & Previews**
+
+### **Homepage**
+<img src="https://github.com/user-attachments/assets/7f270bec-f16c-446c-b6d4-7daa225dc825" width="750">
+
+### **Tourpage**
+<img src="https://github.com/user-attachments/assets/7bb3f5d8-208c-4acc-b27b-2e41e199f527" width="750">
+<img src="https://github.com/user-attachments/assets/183c4dfa-add1-4b2d-b6bf-a498e968bf55" width="750">
+<img src="https://github.com/user-attachments/assets/e9716a95-6025-42fc-87a0-97e348a60c2f" width="750">
+<img src="https://github.com/user-attachments/assets/b2cdeccf-e307-4501-9ff8-5df2c5518085" width="750">
+
+### **Profilepage**
+<img src="https://github.com/user-attachments/assets/e03dd8d6-548a-421d-b35f-21e6d6f0568d" width="750">
